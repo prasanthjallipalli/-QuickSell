@@ -1,0 +1,9 @@
+.action-space-body {
+  flex-grow: 1;
+  display: flex;
+  background-color: #f3f6fa;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: start;
+}
